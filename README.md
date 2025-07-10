@@ -54,9 +54,9 @@
 ---
 
 <h3 align="left">Featured Projects:</h3>
-- 🏥 🏏 IPL Data Analysis (https://github.com/S-Amena/IPL-Data-Analysis-Using-AI-ML.git) : Using AI and ML 
-- 🏥 healthcare HUb (https://github.com/S-Amena/patient-tracker): MERN-based secure hospital management app with JWT, billing, dashboards, and CI/CD  
-- 🤖 EHRBot AI (https://github.com/S-Amena/Enhancing-EHR-Based-Diagnostic-Predictions-Using-NLP.git) : NLP-driven healthcare assistant using Flask + LLMs + Streamlit  
+- 🏥 🏏 IPL Data Analysis Using AI and ML 
+- 🏥 healthcare HUb MERN-based secure hospital management app with JWT, billing, dashboards, and CI/CD  
+- 🤖 EHRBoT AI NLP-driven healthcare assistant using Flask + LLMs + Streamlit  
 - 🌾 IoT Smart Crop Protection: Arduino + GSM system for alerting animal intrusions in real-time  
 
 ---
