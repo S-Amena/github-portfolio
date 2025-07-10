@@ -1,53 +1,59 @@
+<h1 align="center">Hi 👋, I'm Syeda Amena</h1>
+<h3 align="center">Full Stack Developer | AI/NLP Enthusiast | M.Tech CSE @ REVA University</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-# 👋 Hi, I'm Syeda Amena
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Amena&label=Profile%20views&color=0e75b6&style=flat" alt="S-Amena" /> </p>
 
-🎓 M.Tech CSE @ REVA University | 💡 AI & Full-Stack Developer | 🧠 Passionate about NLP, Edge Computing & Healthcare Tech
-
----
-
-## 🔍 About Me
-
-I'm a passionate and dedicated Computer Science Engineer with a strong foundation in full-stack web development, artificial intelligence, and healthcare innovation. I love building real-world solutions using modern tools and technologies.
-
----
-
-## 🚀 Projects
-
-- **🩺 [Patient Tracker](https://github.com/S-Amena/patient-tracker):** MERN stack app for hospital management with real-time updates, HIPAA-compliant security, JWT auth, CI/CD.
-- **🤖 EHRBot AI:** Streamlit + Hugging Face-based assistant for enhancing diagnosis from EHRs using NLP and LLMs.
-- **🌾 IoT Crop Protector:** Arduino + GSM module to detect animals and alert farmers via SMS.
+- 🔭 I’m currently working on **EHRBot AI (NLP-based medical assistant)**  
+- 🌱 I’m currently learning **Spring Boot, LLMs, RAG architecture, and CI/CD pipelines**  
+- 💬 Ask me about **MERN stack, Java Full Stack, and healthcare AI solutions**  
+- 📫 Reach me at **syedaamena910@gmail.com**  
+- ⚡ Fun fact: **I build and research at the same time — code by day, papers by night!**  
 
 ---
 
-## 💼 Internships
-
-- **Kodnest** – Java Full Stack Development (Spring Boot, HTML/CSS, MySQL)
-- **Technologics** – IPL Match Outcome Prediction using ML (Pandas, Scikit-learn, Matplotlib)
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Java, Python, JavaScript, C++, HTML, CSS  
-**Frameworks:** React, Node.js, Express, Flask  
-**Database:** MongoDB, MySQL, SQL  
-**Tools:** Git, Postman, Thunder Client, Arduino IDE, spaCy  
-**Concepts:** OOP, REST APIs, DSA, DBMS, NLP, Full Stack Dev  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/syeda-amena-a8211328b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda-amena" height="30" width="40" /></a>
+<a href="mailto:syedaamena910@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+<a href="https://github.com/S-Amena" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
+</p>
 
 ---
 
-## 📚 Publications
-
-- 📝 *Improving Electronic Health Records with NLP and LLM-RAG* – Submitted to AI Journal (2025)
-- 📖 *Edge Computing for Future Wireless Networks* – Review paper in progress
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="Streamlit" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/flaskio/flaskio-icon.svg" alt="Flask" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="HuggingFace" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
+</p>
 
 ---
 
-## 📫 Let's Connect!
+<h3 align="left">Featured Projects:</h3>
 
-📧 Email: syedaamena910@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/syeda-amena-a8211328b)  
-💻 [GitHub](https://github.com/S-Amena)
+- 🏥 [Patient Tracker](https://github.com/S-Amena/patient-tracker): MERN-based secure hospital management app with JWT, billing, dashboards, and CI/CD  
+- 🤖 EHRBot AI: NLP-driven healthcare assistant using Flask + LLMs + Streamlit  
+- 🌾 IoT Smart Crop Protection: Arduino + GSM system for alerting animal intrusions in real-time  
 
 ---
-_“Build to solve, learn to lead.”_
+
+<h3 align="left">📈 GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Amena&layout=compact&theme=tokyonight" alt="S-Amena" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-Amena&show_icons=true&locale=en&theme=tokyonight" alt="S-Amena" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Amena&theme=tokyonight" alt="S-Amena" /></p>
+ 
+
