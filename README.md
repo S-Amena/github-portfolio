@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syeda Amena</h1>
 <h3 align="center">Full Stack Developer | AI/NLP Enthusiast | M.Tech CSE @ REVA University</h3>
 
-<img align="right" alt="Coding" width="400"  src="https://github.com/S-Amena/S-Amena/blob/main/assets/https://pin.it/6QZjKZ2sz">
-
-
+<img align="right" alt="Anime Coder Girl" width="300" src="https://ih1.redbubble.net/image.5090010264.0391/st,large,507x507-pad,600x600,f8f8f8.u9.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Amena&label=Profile%20views&color=0e75b6&style=flat" alt="S-Amena" /> </p>
 
