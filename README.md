@@ -58,9 +58,6 @@
 - 🏥 healthcare HUb MERN-based secure hospital management app with JWT, billing, dashboards, and CI/CD  
 - 🤖 EHRBoT AI NLP-driven healthcare assistant using Flask + LLMs + Streamlit  
 - 🌾 IoT Smart Crop Protection: Arduino + GSM system for alerting animal intrusions in real-time  
-
----
-
 <h3 align="left">📈 GitHub Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Amena&layout=compact&theme=tokyonight" alt="S-Amena" /></p>
